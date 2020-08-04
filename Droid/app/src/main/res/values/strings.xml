@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HoyADonde</string>
+    <string name="username">Nombre de Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="action_settings">Configuración</string>
+    <string name="action_logout">Cerrar Sesión</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="news">Novedades</string>
+    <string name="favorites">Favoritos</string>
+    <string name="account">Mi Cuenta</string>
+    <string name="schedule">Agenda</string>
+    <string name="usernameTv">Nombre de Usuario:</string>
+    <string name="ageTv">Edad:</string>
+    <string name="locationTv">Ubicación:</string>
+    <string name="updateBtn">Actualizar Datos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

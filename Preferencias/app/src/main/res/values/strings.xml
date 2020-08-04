@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Preferencias</string>
+    <string name="nombre">Nombre</string>
+    <string name="guardar">Guardar</string>
+    <string name="configuracion1">ConfiguraciónUno</string>
+    <string name="configuracion2">ConfiguraciónDos</string>
+</resources>

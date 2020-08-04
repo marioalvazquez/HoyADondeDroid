@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HoyADonde</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Logout</string>
+    <string name="news">What is new?</string>
+    <string name="favorites">Favorites</string>
+    <string name="account">My Account</string>
+    <string name="schedule">Schedule</string>
+    <string name="usernameTv">Name:</string>
+    <string name="ageTv">Age:</string>
+    <string name="locationTv">Location:</string>
+    <string name="updateBtn">Update Data</string>
+
+</resources>
